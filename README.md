@@ -1,7 +1,13 @@
-# POC - Click a Link , Embedded Video > A HTML Dish , Sprinkle of Java , Dash of Hot Sauce  
+# POC : Click a Link > Embedded Video 
 
-WYSIWYG
+*HTML Dish , Sprinkle of Java , Dash of Hot Sauce* ...  
+\
+\
+WYSIWYG 
 
-Personally Used For Social Media
+Personally Used For Social Media.
 
-Quick WIP - Open to Surgestion / Comments
+Quick Whip
+<br/>
+<br/>
+**Open to Comments && Suggestions**
